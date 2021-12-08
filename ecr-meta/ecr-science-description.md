@@ -137,7 +137,7 @@ This plugin has the following knobs
 |---------------|--------------------------------------------------------------------------------------------------------|---------|
 | --num_rec     | Number of microphone recordings. Each mic recording will be saved in a different file. Default to 1.   | 1       |
 | --silence_int | Time interval [s] in which there is not sound recording.                                               | 0.0     |
-
+| **--sound_int** | Time interval [s] in which there is sound recording. Default to 10.0. | 10.0 |
 
    **--num_rec**      'Number of microphone recordings. Each mic recording will be saved in a different file. Default to 1.'
     
