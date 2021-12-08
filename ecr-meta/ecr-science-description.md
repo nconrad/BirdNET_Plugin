@@ -134,7 +134,7 @@ that is when Audacity format is chosen.
 This plugin has the following knobs
 
 | Option        | Description                                                                                            | Default |
-|-:-------------|-:-:----------------------------------------------------------------------------------------------------|--:------|
+|---------------|--------------------------------------------------------------------------------------------------------|---------|
 | --num_rec     | Number of microphone recordings. Each mic recording will be saved in a different file. Default to 1.   | 1       |
 | --silence_int | Time interval [s] in which there is not sound recording.                                               | 0.0     |
 
